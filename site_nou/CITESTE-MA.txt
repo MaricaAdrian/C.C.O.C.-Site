@@ -1,0 +1,1 @@
+﻿NU UITAȚI SĂ MODIFICAȚI $base_url din folderul COMP fișierul global_variables! IMPORTANT: Trebuie să aibă la final '/'

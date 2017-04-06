@@ -1,0 +1,8 @@
+﻿05/03/2017 - Marica Adrian
+
+- Am adăugat Slider pentru imaginile din folder-ul imagini.
+- Pentru a adauga o nouă imaginie se introduce in folder-ul imagini imaginea sub format .png si cu numele urmator 
+  ultimei cifre a pozei din folder, apoi se modifica in index.php $nr_imagini = numarul imaginilor și $descriere_imagini se mai adauga inca o virgula si descrierea intre ghilimele
+
+Bug-uri/Avertismente : Imaginile care nu au o calitate bună pentru Slider vor fi redimensionate și implicit o sa arate urât.
+
